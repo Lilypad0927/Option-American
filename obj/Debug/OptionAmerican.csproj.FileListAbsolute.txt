@@ -1,0 +1,6 @@
+D:\liyi\2-job\1-Eastmoney\projects\OptionAmerican\bin\Debug\OptionAmerican.exe.config
+D:\liyi\2-job\1-Eastmoney\projects\OptionAmerican\bin\Debug\OptionAmerican.exe
+D:\liyi\2-job\1-Eastmoney\projects\OptionAmerican\bin\Debug\OptionAmerican.pdb
+D:\liyi\2-job\1-Eastmoney\projects\OptionAmerican\obj\Debug\OptionAmerican.csprojAssemblyReference.cache
+D:\liyi\2-job\1-Eastmoney\projects\OptionAmerican\obj\Debug\OptionAmerican.exe
+D:\liyi\2-job\1-Eastmoney\projects\OptionAmerican\obj\Debug\OptionAmerican.pdb
